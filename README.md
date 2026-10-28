@@ -1,7 +1,5 @@
 <p align="center">
-  <img
+<img 
     width="300"
-    alt="matbside"
-    src="https://github.com/user-attachments/assets/7f37da56-e67d-4e69-b1e4-6709726ed82e"
-  />
+    alt="matbside" alt="matbside" src="https://github.com/user-attachments/assets/83719ab0-6a84-4071-a6d2-022f619fd50d" />
 </p>
